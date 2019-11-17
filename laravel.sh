@@ -54,6 +54,8 @@ sudo apt update && sudo apt dist-upgrade -y && sudo apt autoclean -y && sudo apt
 
 echo "Finalizado"
 
+#instalando wine
+apt install wine1.6-i386
 
 #Atualizando repositorio
 sudo apt update
