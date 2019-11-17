@@ -1,0 +1,5 @@
+#Instalando SNAP
+sudo apt-get install snapd snapd-xdg-open -y
+sudo snap install --classic vscode -y
+sudo snap refresh vscode -y
+
